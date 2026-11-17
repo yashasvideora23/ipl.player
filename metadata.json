@@ -1,0 +1,6 @@
+{
+  "name": "IPL QuantLab",
+  "description": "Data science and player performance analytics platform for all 10 IPL franchises with AI-powered live stat synchronization and Python/VS Code project export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

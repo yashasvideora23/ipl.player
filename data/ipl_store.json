@@ -1,0 +1,2496 @@
+{
+  "teams": [
+    {
+      "code": "MI",
+      "name": "Mumbai Indians",
+      "shortCity": "Mumbai",
+      "captain": "Hardik Pandya",
+      "homeGround": "Wankhede Stadium",
+      "titles": 5,
+      "primaryColor": "#004BA0",
+      "secondaryColor": "#D1AB3E"
+    },
+    {
+      "code": "CSK",
+      "name": "Chennai Super Kings",
+      "shortCity": "Chennai",
+      "captain": "Ruturaj Gaikwad",
+      "homeGround": "M. A. Chidambaram Stadium",
+      "titles": 5,
+      "primaryColor": "#CA8A04",
+      "secondaryColor": "#0F172A"
+    },
+    {
+      "code": "RCB",
+      "name": "Royal Challengers Bengaluru",
+      "shortCity": "Bengaluru",
+      "captain": "Rajat Patidar",
+      "homeGround": "M. Chinnaswamy Stadium",
+      "titles": 1,
+      "primaryColor": "#DC2626",
+      "secondaryColor": "#1E293B"
+    },
+    {
+      "code": "GT",
+      "name": "Gujarat Titans",
+      "shortCity": "Ahmedabad",
+      "captain": "Shubman Gill",
+      "homeGround": "Narendra Modi Stadium",
+      "titles": 1,
+      "primaryColor": "#1E3A5F",
+      "secondaryColor": "#B4975A"
+    },
+    {
+      "code": "DC",
+      "name": "Delhi Capitals",
+      "shortCity": "Delhi",
+      "captain": "Axar Patel",
+      "homeGround": "Arun Jaitley Stadium",
+      "titles": 0,
+      "primaryColor": "#1D4ED8",
+      "secondaryColor": "#EF4444"
+    },
+    {
+      "code": "RR",
+      "name": "Rajasthan Royals",
+      "shortCity": "Jaipur",
+      "captain": "Sanju Samson",
+      "homeGround": "Sawai Mansingh Stadium",
+      "titles": 1,
+      "primaryColor": "#DB2777",
+      "secondaryColor": "#1E3A8A"
+    },
+    {
+      "code": "LSG",
+      "name": "Lucknow Super Giants",
+      "shortCity": "Lucknow",
+      "captain": "Rishabh Pant",
+      "homeGround": "Ekana Cricket Stadium",
+      "titles": 0,
+      "primaryColor": "#0284C7",
+      "secondaryColor": "#EA580C"
+    },
+    {
+      "code": "SRH",
+      "name": "Sunrisers Hyderabad",
+      "shortCity": "Hyderabad",
+      "captain": "Pat Cummins",
+      "homeGround": "Rajiv Gandhi Intl. Stadium",
+      "titles": 1,
+      "primaryColor": "#EA580C",
+      "secondaryColor": "#18181B"
+    },
+    {
+      "code": "PBKS",
+      "name": "Punjab Kings",
+      "shortCity": "Mullanpur",
+      "captain": "Shreyas Iyer",
+      "homeGround": "Maharaja Yadavindra Singh Stadium",
+      "titles": 0,
+      "primaryColor": "#B91C1C",
+      "secondaryColor": "#94A3B8"
+    },
+    {
+      "code": "KKR",
+      "name": "Kolkata Knight Riders",
+      "shortCity": "Kolkata",
+      "captain": "Ajinkya Rahane",
+      "homeGround": "Eden Gardens",
+      "titles": 3,
+      "primaryColor": "#581C87",
+      "secondaryColor": "#D97706"
+    }
+  ],
+  "players": [
+    {
+      "id": "mi-hardik",
+      "name": "Hardik Pandya",
+      "team": "MI",
+      "category": "All-Rounder",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 33,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 137,
+        "innings": 128,
+        "runs": 2525,
+        "ballsFaced": 1732,
+        "dotBallsFaced": 540,
+        "strikeRate": 145.79,
+        "average": 28.69,
+        "fours": 190,
+        "sixes": 136,
+        "fifties": 10,
+        "hundreds": 0,
+        "highScore": 91
+      },
+      "bowling": {
+        "matches": 137,
+        "innings": 98,
+        "overs": 286.4,
+        "runsConceded": 2594,
+        "wickets": 64,
+        "dotBallsBowled": 582,
+        "economy": 9.05,
+        "bowlingAverage": 40.53,
+        "bowlingStrikeRate": 26.8,
+        "maidens": 1,
+        "fourWickets": 0,
+        "bestFigures": "3/17"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 34,
+          "wickets": 1,
+          "score": 58,
+          "label": "34r · 1w"
+        },
+        {
+          "match": "M2",
+          "runs": 21,
+          "wickets": 2,
+          "score": 69,
+          "label": "21r · 2w"
+        },
+        {
+          "match": "M3",
+          "runs": 46,
+          "wickets": 0,
+          "score": 46,
+          "label": "46r · 0w"
+        },
+        {
+          "match": "M4",
+          "runs": 18,
+          "wickets": 2,
+          "score": 66,
+          "label": "18r · 2w"
+        },
+        {
+          "match": "M5",
+          "runs": 52,
+          "wickets": 1,
+          "score": 76,
+          "label": "52r · 1w"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Hardik_Pandya_in_PMO_New_Delhi.jpg/330px-Hardik_Pandya_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "mi-rohit",
+      "name": "Rohit Sharma",
+      "team": "MI",
+      "category": "Batsman",
+      "nationality": "India",
+      "jerseyNumber": 45,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 257,
+        "innings": 252,
+        "runs": 6628,
+        "ballsFaced": 5054,
+        "dotBallsFaced": 1915,
+        "strikeRate": 131.14,
+        "average": 29.72,
+        "fours": 599,
+        "sixes": 280,
+        "fifties": 43,
+        "hundreds": 2,
+        "highScore": 109
+      },
+      "bowling": {
+        "matches": 257,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 49,
+          "score": 49,
+          "label": "49 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 19,
+          "score": 19,
+          "label": "19 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 68,
+          "score": 68,
+          "label": "68 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 36,
+          "score": 36,
+          "label": "36 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 74,
+          "score": 74,
+          "label": "74 runs"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg/330px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "mi-sky",
+      "name": "Suryakumar Yadav",
+      "team": "MI",
+      "category": "Batsman",
+      "nationality": "India",
+      "jerseyNumber": 63,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 150,
+        "innings": 135,
+        "runs": 3594,
+        "ballsFaced": 2473,
+        "dotBallsFaced": 785,
+        "strikeRate": 145.33,
+        "average": 32.38,
+        "fours": 385,
+        "sixes": 130,
+        "fifties": 24,
+        "hundreds": 2,
+        "highScore": 103
+      },
+      "bowling": {
+        "matches": 150,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 78,
+          "score": 78,
+          "label": "78 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 26,
+          "score": 26,
+          "label": "26 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 56,
+          "score": 56,
+          "label": "56 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 40,
+          "score": 40,
+          "label": "40 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 84,
+          "score": 84,
+          "label": "84 runs"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Suryakumar_Yadav_in_PMO_New_Delhi.jpg/330px-Suryakumar_Yadav_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "mi-bumrah",
+      "name": "Jasprit Bumrah",
+      "team": "MI",
+      "category": "Bowler",
+      "nationality": "India",
+      "jerseyNumber": 93,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 133,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 133,
+        "innings": 133,
+        "overs": 508.2,
+        "runsConceded": 3711,
+        "wickets": 165,
+        "dotBallsBowled": 1295,
+        "economy": 7.3,
+        "bowlingAverage": 22.49,
+        "bowlingStrikeRate": 18.48,
+        "maidens": 8,
+        "fourWickets": 4,
+        "bestFigures": "5/10"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 4,
+          "score": 115,
+          "label": "4 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Jasprit_Bumrah_in_PMO_New_Delhi.jpg/330px-Jasprit_Bumrah_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "csk-ruturaj",
+      "name": "Ruturaj Gaikwad",
+      "team": "CSK",
+      "category": "Batsman",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 31,
+      "avatarPreset": "yellow",
+      "batting": {
+        "matches": 66,
+        "innings": 65,
+        "runs": 2380,
+        "ballsFaced": 1739,
+        "dotBallsFaced": 590,
+        "strikeRate": 136.86,
+        "average": 41.75,
+        "fours": 215,
+        "sixes": 91,
+        "fifties": 18,
+        "hundreds": 2,
+        "highScore": 108
+      },
+      "bowling": {
+        "matches": 66,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 62,
+          "score": 62,
+          "label": "62 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 42,
+          "score": 42,
+          "label": "42 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 98,
+          "score": 98,
+          "label": "98 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 28,
+          "score": 28,
+          "label": "28 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 67,
+          "score": 67,
+          "label": "67 runs"
+        }
+      ]
+    },
+    {
+      "id": "csk-jadeja",
+      "name": "Ravindra Jadeja",
+      "team": "CSK",
+      "category": "All-Rounder",
+      "nationality": "India",
+      "jerseyNumber": 8,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 240,
+        "innings": 185,
+        "runs": 2959,
+        "ballsFaced": 2281,
+        "dotBallsFaced": 775,
+        "strikeRate": 129.72,
+        "average": 27.4,
+        "fours": 214,
+        "sixes": 107,
+        "fifties": 3,
+        "hundreds": 0,
+        "highScore": 62
+      },
+      "bowling": {
+        "matches": 240,
+        "innings": 211,
+        "overs": 659.1,
+        "runsConceded": 5016,
+        "wickets": 160,
+        "dotBallsBowled": 1465,
+        "economy": 7.61,
+        "bowlingAverage": 31.35,
+        "bowlingStrikeRate": 24.7,
+        "maidens": 4,
+        "fourWickets": 3,
+        "bestFigures": "5/16"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 24,
+          "wickets": 1,
+          "score": 48,
+          "label": "24r · 1w"
+        },
+        {
+          "match": "M2",
+          "runs": 43,
+          "wickets": 2,
+          "score": 91,
+          "label": "43r · 2w"
+        },
+        {
+          "match": "M3",
+          "runs": 19,
+          "wickets": 1,
+          "score": 43,
+          "label": "19r · 1w"
+        },
+        {
+          "match": "M4",
+          "runs": 31,
+          "wickets": 0,
+          "score": 31,
+          "label": "31r · 0w"
+        },
+        {
+          "match": "M5",
+          "runs": 42,
+          "wickets": 3,
+          "score": 114,
+          "label": "42r · 3w"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/PM_Shri_Narendra_Modi_with_Ravindra_Jadeja_%28Cropped%29.jpg/330px-PM_Shri_Narendra_Modi_with_Ravindra_Jadeja_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "csk-pathirana",
+      "name": "Matheesha Pathirana",
+      "team": "CSK",
+      "category": "Bowler",
+      "nationality": "Sri Lanka",
+      "jerseyNumber": 99,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 20,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 20,
+        "innings": 20,
+        "overs": 74.1,
+        "runsConceded": 584,
+        "wickets": 34,
+        "dotBallsBowled": 188,
+        "economy": 7.87,
+        "bowlingAverage": 17.18,
+        "bowlingStrikeRate": 13.09,
+        "maidens": 0,
+        "fourWickets": 1,
+        "bestFigures": "4/28"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 4,
+          "score": 115,
+          "label": "4 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        }
+      ]
+    },
+    {
+      "id": "csk-dube",
+      "name": "Shivam Dube",
+      "team": "CSK",
+      "category": "All-Rounder",
+      "nationality": "India",
+      "jerseyNumber": 25,
+      "avatarPreset": "yellow",
+      "batting": {
+        "matches": 65,
+        "innings": 61,
+        "runs": 1502,
+        "ballsFaced": 1024,
+        "dotBallsFaced": 356,
+        "strikeRate": 146.68,
+        "average": 30.04,
+        "fours": 98,
+        "sixes": 101,
+        "fifties": 9,
+        "hundreds": 0,
+        "highScore": 95
+      },
+      "bowling": {
+        "matches": 65,
+        "innings": 16,
+        "overs": 24,
+        "runsConceded": 221,
+        "wickets": 5,
+        "dotBallsBowled": 42,
+        "economy": 9.21,
+        "bowlingAverage": 44.2,
+        "bowlingStrikeRate": 28.8,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "2/15"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 51,
+          "wickets": 0,
+          "score": 51,
+          "label": "51r · 0w"
+        },
+        {
+          "match": "M2",
+          "runs": 28,
+          "wickets": 1,
+          "score": 52,
+          "label": "28r · 1w"
+        },
+        {
+          "match": "M3",
+          "runs": 66,
+          "wickets": 0,
+          "score": 66,
+          "label": "66r · 0w"
+        },
+        {
+          "match": "M4",
+          "runs": 18,
+          "wickets": 0,
+          "score": 18,
+          "label": "18r · 0w"
+        },
+        {
+          "match": "M5",
+          "runs": 49,
+          "wickets": 1,
+          "score": 73,
+          "label": "49r · 1w"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Shivam_Dube_in_PMO_New_Delhi.jpg/330px-Shivam_Dube_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "rcb-patidar",
+      "name": "Rajat Patidar",
+      "team": "RCB",
+      "category": "Batsman",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 97,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 27,
+        "innings": 25,
+        "runs": 799,
+        "ballsFaced": 503,
+        "dotBallsFaced": 158,
+        "strikeRate": 158.85,
+        "average": 34.74,
+        "fours": 51,
+        "sixes": 54,
+        "fifties": 7,
+        "hundreds": 1,
+        "highScore": 112
+      },
+      "bowling": {
+        "matches": 27,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 52,
+          "score": 52,
+          "label": "52 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 41,
+          "score": 41,
+          "label": "41 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 64,
+          "score": 64,
+          "label": "64 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 29,
+          "score": 29,
+          "label": "29 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 55,
+          "score": 55,
+          "label": "55 runs"
+        }
+      ]
+    },
+    {
+      "id": "rcb-kohli",
+      "name": "Virat Kohli",
+      "team": "RCB",
+      "category": "Batsman",
+      "nationality": "India",
+      "jerseyNumber": 18,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 252,
+        "innings": 244,
+        "runs": 8004,
+        "ballsFaced": 6065,
+        "dotBallsFaced": 2040,
+        "strikeRate": 131.97,
+        "average": 38.67,
+        "fours": 705,
+        "sixes": 272,
+        "fifties": 55,
+        "hundreds": 8,
+        "highScore": 113
+      },
+      "bowling": {
+        "matches": 252,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 70,
+          "score": 70,
+          "label": "70 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 42,
+          "score": 42,
+          "label": "42 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 92,
+          "score": 92,
+          "label": "92 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 47,
+          "score": 47,
+          "label": "47 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 73,
+          "score": 73,
+          "label": "73 runs"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Virat_Kohli_in_PMO_New_Delhi.jpg/330px-Virat_Kohli_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "rcb-hazlewood",
+      "name": "Josh Hazlewood",
+      "team": "RCB",
+      "category": "Bowler",
+      "nationality": "Australia",
+      "jerseyNumber": 38,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 27,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 27,
+        "innings": 27,
+        "overs": 100.4,
+        "runsConceded": 811,
+        "wickets": 35,
+        "dotBallsBowled": 268,
+        "economy": 8.06,
+        "bowlingAverage": 23.17,
+        "bowlingStrikeRate": 17.26,
+        "maidens": 1,
+        "fourWickets": 1,
+        "bestFigures": "4/25"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        }
+      ]
+    },
+    {
+      "id": "gt-gill",
+      "name": "Shubman Gill",
+      "team": "GT",
+      "category": "Batsman",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 77,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 103,
+        "innings": 100,
+        "runs": 3216,
+        "ballsFaced": 2369,
+        "dotBallsFaced": 812,
+        "strikeRate": 135.75,
+        "average": 37.84,
+        "fours": 310,
+        "sixes": 95,
+        "fifties": 20,
+        "hundreds": 4,
+        "highScore": 129
+      },
+      "bowling": {
+        "matches": 103,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 35,
+          "score": 35,
+          "label": "35 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 104,
+          "score": 104,
+          "label": "104 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 24,
+          "score": 24,
+          "label": "24 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 58,
+          "score": 58,
+          "label": "58 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 72,
+          "score": 72,
+          "label": "72 runs"
+        }
+      ]
+    },
+    {
+      "id": "gt-rashid",
+      "name": "Rashid Khan",
+      "team": "GT",
+      "category": "All-Rounder",
+      "nationality": "Afghanistan",
+      "jerseyNumber": 19,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 121,
+        "innings": 59,
+        "runs": 545,
+        "ballsFaced": 328,
+        "dotBallsFaced": 108,
+        "strikeRate": 166.16,
+        "average": 15.14,
+        "fours": 40,
+        "sixes": 39,
+        "fifties": 1,
+        "hundreds": 0,
+        "highScore": 79
+      },
+      "bowling": {
+        "matches": 121,
+        "innings": 120,
+        "overs": 472.2,
+        "runsConceded": 3221,
+        "wickets": 149,
+        "dotBallsBowled": 1185,
+        "economy": 6.82,
+        "bowlingAverage": 21.62,
+        "bowlingStrikeRate": 19.02,
+        "maidens": 4,
+        "fourWickets": 2,
+        "bestFigures": "4/24"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 22,
+          "wickets": 2,
+          "score": 70,
+          "label": "22r · 2w"
+        },
+        {
+          "match": "M2",
+          "runs": 14,
+          "wickets": 3,
+          "score": 86,
+          "label": "14r · 3w"
+        },
+        {
+          "match": "M3",
+          "runs": 29,
+          "wickets": 1,
+          "score": 53,
+          "label": "29r · 1w"
+        },
+        {
+          "match": "M4",
+          "runs": 11,
+          "wickets": 2,
+          "score": 59,
+          "label": "11r · 2w"
+        },
+        {
+          "match": "M5",
+          "runs": 26,
+          "wickets": 3,
+          "score": 98,
+          "label": "26r · 3w"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Rashid_Khan.jpg/330px-Rashid_Khan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "gt-siraj",
+      "name": "Mohammed Siraj",
+      "team": "GT",
+      "category": "Bowler",
+      "nationality": "India",
+      "jerseyNumber": 73,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 93,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 93,
+        "innings": 93,
+        "overs": 332.1,
+        "runsConceded": 2873,
+        "wickets": 93,
+        "dotBallsBowled": 840,
+        "economy": 8.65,
+        "bowlingAverage": 30.89,
+        "bowlingStrikeRate": 21.43,
+        "maidens": 5,
+        "fourWickets": 2,
+        "bestFigures": "4/21"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Mohammad_Siraj_%28cropped%29.jpg/330px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Mohammad_Siraj_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "dc-axar",
+      "name": "Axar Patel",
+      "team": "DC",
+      "category": "All-Rounder",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 20,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 150,
+        "innings": 113,
+        "runs": 1653,
+        "ballsFaced": 1263,
+        "dotBallsFaced": 422,
+        "strikeRate": 130.88,
+        "average": 21.47,
+        "fours": 114,
+        "sixes": 79,
+        "fifties": 3,
+        "hundreds": 0,
+        "highScore": 66
+      },
+      "bowling": {
+        "matches": 150,
+        "innings": 148,
+        "overs": 516.3,
+        "runsConceded": 3759,
+        "wickets": 123,
+        "dotBallsBowled": 1190,
+        "economy": 7.28,
+        "bowlingAverage": 30.56,
+        "bowlingStrikeRate": 25.2,
+        "maidens": 3,
+        "fourWickets": 1,
+        "bestFigures": "4/21"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 29,
+          "wickets": 1,
+          "score": 53,
+          "label": "29r · 1w"
+        },
+        {
+          "match": "M2",
+          "runs": 42,
+          "wickets": 2,
+          "score": 90,
+          "label": "42r · 2w"
+        },
+        {
+          "match": "M3",
+          "runs": 18,
+          "wickets": 1,
+          "score": 42,
+          "label": "18r · 1w"
+        },
+        {
+          "match": "M4",
+          "runs": 35,
+          "wickets": 2,
+          "score": 83,
+          "label": "35r · 2w"
+        },
+        {
+          "match": "M5",
+          "runs": 24,
+          "wickets": 1,
+          "score": 48,
+          "label": "24r · 1w"
+        }
+      ]
+    },
+    {
+      "id": "dc-kuldeep",
+      "name": "Kuldeep Yadav",
+      "team": "DC",
+      "category": "Bowler",
+      "nationality": "India",
+      "jerseyNumber": 23,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 84,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 84,
+        "innings": 82,
+        "overs": 294.4,
+        "runsConceded": 2404,
+        "wickets": 87,
+        "dotBallsBowled": 660,
+        "economy": 8.16,
+        "bowlingAverage": 27.63,
+        "bowlingStrikeRate": 20.32,
+        "maidens": 1,
+        "fourWickets": 4,
+        "bestFigures": "4/14"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Kuldeep_Yadav_in_PMO_New_Delhi.jpg/330px-Kuldeep_Yadav_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "dc-kl",
+      "name": "KL Rahul",
+      "team": "DC",
+      "category": "Batsman",
+      "nationality": "India",
+      "jerseyNumber": 1,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 132,
+        "innings": 123,
+        "runs": 4683,
+        "ballsFaced": 3479,
+        "dotBallsFaced": 1195,
+        "strikeRate": 134.61,
+        "average": 45.47,
+        "fours": 400,
+        "sixes": 187,
+        "fifties": 37,
+        "hundreds": 4,
+        "highScore": 132
+      },
+      "bowling": {
+        "matches": 132,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 58,
+          "score": 58,
+          "label": "58 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 39,
+          "score": 39,
+          "label": "39 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 76,
+          "score": 76,
+          "label": "76 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 44,
+          "score": 44,
+          "label": "44 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 61,
+          "score": 61,
+          "label": "61 runs"
+        }
+      ]
+    },
+    {
+      "id": "rr-samson",
+      "name": "Sanju Samson",
+      "team": "RR",
+      "category": "Batsman",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 11,
+      "avatarPreset": "pink",
+      "batting": {
+        "matches": 168,
+        "innings": 163,
+        "runs": 4419,
+        "ballsFaced": 3180,
+        "dotBallsFaced": 1090,
+        "strikeRate": 138.96,
+        "average": 30.69,
+        "fours": 352,
+        "sixes": 206,
+        "fifties": 25,
+        "hundreds": 3,
+        "highScore": 119
+      },
+      "bowling": {
+        "matches": 168,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 68,
+          "score": 68,
+          "label": "68 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 44,
+          "score": 44,
+          "label": "44 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 86,
+          "score": 86,
+          "label": "86 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 20,
+          "score": 20,
+          "label": "20 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 57,
+          "score": 57,
+          "label": "57 runs"
+        }
+      ]
+    },
+    {
+      "id": "rr-jaiswal",
+      "name": "Yashasvi Jaiswal",
+      "team": "RR",
+      "category": "Batsman",
+      "nationality": "India",
+      "jerseyNumber": 64,
+      "avatarPreset": "pink",
+      "batting": {
+        "matches": 53,
+        "innings": 52,
+        "runs": 1607,
+        "ballsFaced": 1067,
+        "dotBallsFaced": 365,
+        "strikeRate": 150.61,
+        "average": 32.14,
+        "fours": 197,
+        "sixes": 64,
+        "fifties": 9,
+        "hundreds": 2,
+        "highScore": 124
+      },
+      "bowling": {
+        "matches": 53,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 67,
+          "score": 67,
+          "label": "67 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 24,
+          "score": 24,
+          "label": "24 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 51,
+          "score": 51,
+          "label": "51 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 82,
+          "score": 82,
+          "label": "82 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 48,
+          "score": 48,
+          "label": "48 runs"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Yashasvi_Jaiswal_in_PMO_New_Delhi.jpg/330px-Yashasvi_Jaiswal_in_PMO_New_Delhi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "rr-archer",
+      "name": "Jofra Archer",
+      "team": "RR",
+      "category": "Bowler",
+      "nationality": "England",
+      "jerseyNumber": 22,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 40,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 40,
+        "innings": 40,
+        "overs": 152.5,
+        "runsConceded": 1137,
+        "wickets": 48,
+        "dotBallsBowled": 432,
+        "economy": 7.44,
+        "bowlingAverage": 23.69,
+        "bowlingStrikeRate": 19.1,
+        "maidens": 4,
+        "fourWickets": 0,
+        "bestFigures": "3/15"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        }
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Jofra_Archer_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "lsg-pant",
+      "name": "Rishabh Pant",
+      "team": "LSG",
+      "category": "Batsman",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 17,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 111,
+        "innings": 110,
+        "runs": 3284,
+        "ballsFaced": 2205,
+        "dotBallsFaced": 684,
+        "strikeRate": 148.93,
+        "average": 35.31,
+        "fours": 296,
+        "sixes": 154,
+        "fifties": 18,
+        "hundreds": 1,
+        "highScore": 128
+      },
+      "bowling": {
+        "matches": 111,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 54,
+          "score": 54,
+          "label": "54 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 33,
+          "score": 33,
+          "label": "33 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 88,
+          "score": 88,
+          "label": "88 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 27,
+          "score": 27,
+          "label": "27 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 65,
+          "score": 65,
+          "label": "65 runs"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Rishabh_Pant.jpg/330px-Rishabh_Pant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "lsg-pooran",
+      "name": "Nicholas Pooran",
+      "team": "LSG",
+      "category": "Batsman",
+      "nationality": "West Indies",
+      "jerseyNumber": 29,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 76,
+        "innings": 73,
+        "runs": 1769,
+        "ballsFaced": 1089,
+        "dotBallsFaced": 342,
+        "strikeRate": 162.44,
+        "average": 32.16,
+        "fours": 121,
+        "sixes": 127,
+        "fifties": 9,
+        "hundreds": 0,
+        "highScore": 77
+      },
+      "bowling": {
+        "matches": 76,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 45,
+          "score": 45,
+          "label": "45 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 61,
+          "score": 61,
+          "label": "61 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 38,
+          "score": 38,
+          "label": "38 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 75,
+          "score": 75,
+          "label": "75 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 52,
+          "score": 52,
+          "label": "52 runs"
+        }
+      ]
+    },
+    {
+      "id": "lsg-bishnoi",
+      "name": "Ravi Bishnoi",
+      "team": "LSG",
+      "category": "Bowler",
+      "nationality": "India",
+      "jerseyNumber": 56,
+      "avatarPreset": "orange",
+      "batting": {
+        "matches": 66,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 66,
+        "innings": 65,
+        "overs": 245.3,
+        "runsConceded": 1916,
+        "wickets": 63,
+        "dotBallsBowled": 560,
+        "economy": 7.8,
+        "bowlingAverage": 30.41,
+        "bowlingStrikeRate": 23.38,
+        "maidens": 1,
+        "fourWickets": 0,
+        "bestFigures": "3/24"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        }
+      ]
+    },
+    {
+      "id": "srh-cummins",
+      "name": "Pat Cummins",
+      "team": "SRH",
+      "category": "All-Rounder",
+      "isCaptain": true,
+      "nationality": "Australia",
+      "jerseyNumber": 30,
+      "avatarPreset": "orange",
+      "batting": {
+        "matches": 58,
+        "innings": 42,
+        "runs": 515,
+        "ballsFaced": 347,
+        "dotBallsFaced": 120,
+        "strikeRate": 148.41,
+        "average": 19.07,
+        "fours": 36,
+        "sixes": 34,
+        "fifties": 2,
+        "hundreds": 0,
+        "highScore": 66
+      },
+      "bowling": {
+        "matches": 58,
+        "innings": 58,
+        "overs": 219.1,
+        "runsConceded": 1918,
+        "wickets": 63,
+        "dotBallsBowled": 512,
+        "economy": 8.75,
+        "bowlingAverage": 30.44,
+        "bowlingStrikeRate": 20.87,
+        "maidens": 1,
+        "fourWickets": 1,
+        "bestFigures": "4/34"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 18,
+          "wickets": 2,
+          "score": 66,
+          "label": "18r · 2w"
+        },
+        {
+          "match": "M2",
+          "runs": 31,
+          "wickets": 1,
+          "score": 55,
+          "label": "31r · 1w"
+        },
+        {
+          "match": "M3",
+          "runs": 14,
+          "wickets": 3,
+          "score": 86,
+          "label": "14r · 3w"
+        },
+        {
+          "match": "M4",
+          "runs": 24,
+          "wickets": 2,
+          "score": 72,
+          "label": "24r · 2w"
+        },
+        {
+          "match": "M5",
+          "runs": 19,
+          "wickets": 2,
+          "score": 67,
+          "label": "19r · 2w"
+        }
+      ]
+    },
+    {
+      "id": "srh-abhishek",
+      "name": "Abhishek Sharma",
+      "team": "SRH",
+      "category": "All-Rounder",
+      "nationality": "India",
+      "jerseyNumber": 4,
+      "avatarPreset": "orange",
+      "batting": {
+        "matches": 63,
+        "innings": 61,
+        "runs": 1377,
+        "ballsFaced": 887,
+        "dotBallsFaced": 280,
+        "strikeRate": 155.24,
+        "average": 25.5,
+        "fours": 128,
+        "sixes": 73,
+        "fifties": 7,
+        "hundreds": 0,
+        "highScore": 75
+      },
+      "bowling": {
+        "matches": 63,
+        "innings": 25,
+        "overs": 42,
+        "runsConceded": 373,
+        "wickets": 11,
+        "dotBallsBowled": 84,
+        "economy": 8.88,
+        "bowlingAverage": 33.91,
+        "bowlingStrikeRate": 22.91,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "2/4"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 75,
+          "wickets": 0,
+          "score": 75,
+          "label": "75r · 0w"
+        },
+        {
+          "match": "M2",
+          "runs": 42,
+          "wickets": 1,
+          "score": 66,
+          "label": "42r · 1w"
+        },
+        {
+          "match": "M3",
+          "runs": 66,
+          "wickets": 0,
+          "score": 66,
+          "label": "66r · 0w"
+        },
+        {
+          "match": "M4",
+          "runs": 21,
+          "wickets": 1,
+          "score": 45,
+          "label": "21r · 1w"
+        },
+        {
+          "match": "M5",
+          "runs": 58,
+          "wickets": 0,
+          "score": 58,
+          "label": "58r · 0w"
+        }
+      ]
+    },
+    {
+      "id": "srh-klaasen",
+      "name": "Heinrich Klaasen",
+      "team": "SRH",
+      "category": "Batsman",
+      "nationality": "South Africa",
+      "jerseyNumber": 45,
+      "avatarPreset": "orange",
+      "batting": {
+        "matches": 35,
+        "innings": 32,
+        "runs": 993,
+        "ballsFaced": 590,
+        "dotBallsFaced": 162,
+        "strikeRate": 168.31,
+        "average": 38.19,
+        "fours": 65,
+        "sixes": 64,
+        "fifties": 6,
+        "hundreds": 1,
+        "highScore": 104
+      },
+      "bowling": {
+        "matches": 35,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 42,
+          "score": 42,
+          "label": "42 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 67,
+          "score": 67,
+          "label": "67 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 50,
+          "score": 50,
+          "label": "50 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 31,
+          "score": 31,
+          "label": "31 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 80,
+          "score": 80,
+          "label": "80 runs"
+        }
+      ]
+    },
+    {
+      "id": "pbks-iyer",
+      "name": "Shreyas Iyer",
+      "team": "PBKS",
+      "category": "Batsman",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 96,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 116,
+        "innings": 115,
+        "runs": 3127,
+        "ballsFaced": 2453,
+        "dotBallsFaced": 845,
+        "strikeRate": 127.48,
+        "average": 32.24,
+        "fours": 271,
+        "sixes": 113,
+        "fifties": 21,
+        "hundreds": 0,
+        "highScore": 96
+      },
+      "bowling": {
+        "matches": 116,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 44,
+          "score": 44,
+          "label": "44 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 58,
+          "score": 58,
+          "label": "58 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 31,
+          "score": 31,
+          "label": "31 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 53,
+          "score": 53,
+          "label": "53 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 62,
+          "score": 62,
+          "label": "62 runs"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Captain_Shreyas_Iyer_%28Sarpanch_Sahab%29_in_T20.jpg/330px-Captain_Shreyas_Iyer_%28Sarpanch_Sahab%29_in_T20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "pbks-arshdeep",
+      "name": "Arshdeep Singh",
+      "team": "PBKS",
+      "category": "Bowler",
+      "nationality": "India",
+      "jerseyNumber": 2,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 65,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 65,
+        "innings": 65,
+        "overs": 230.2,
+        "runsConceded": 2079,
+        "wickets": 76,
+        "dotBallsBowled": 545,
+        "economy": 9.03,
+        "bowlingAverage": 27.36,
+        "bowlingStrikeRate": 18.18,
+        "maidens": 1,
+        "fourWickets": 2,
+        "bestFigures": "5/32"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 4,
+          "score": 115,
+          "label": "4 wkts"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Arshdeep_Singh_Family_%28Cropped%29.jpg/330px-Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Arshdeep_Singh_Family_%28Cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "pbks-stoinis",
+      "name": "Marcus Stoinis",
+      "team": "PBKS",
+      "category": "All-Rounder",
+      "nationality": "Australia",
+      "jerseyNumber": 17,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 96,
+        "innings": 89,
+        "runs": 1866,
+        "ballsFaced": 1314,
+        "dotBallsFaced": 425,
+        "strikeRate": 142.01,
+        "average": 28.27,
+        "fours": 149,
+        "sixes": 88,
+        "fifties": 9,
+        "hundreds": 1,
+        "highScore": 124
+      },
+      "bowling": {
+        "matches": 96,
+        "innings": 68,
+        "overs": 146.5,
+        "runsConceded": 1397,
+        "wickets": 43,
+        "dotBallsBowled": 285,
+        "economy": 9.51,
+        "bowlingAverage": 32.49,
+        "bowlingStrikeRate": 20.49,
+        "maidens": 0,
+        "fourWickets": 1,
+        "bestFigures": "4/15"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 34,
+          "wickets": 1,
+          "score": 58,
+          "label": "34r · 1w"
+        },
+        {
+          "match": "M2",
+          "runs": 48,
+          "wickets": 0,
+          "score": 48,
+          "label": "48r · 0w"
+        },
+        {
+          "match": "M3",
+          "runs": 22,
+          "wickets": 2,
+          "score": 70,
+          "label": "22r · 2w"
+        },
+        {
+          "match": "M4",
+          "runs": 62,
+          "wickets": 1,
+          "score": 86,
+          "label": "62r · 1w"
+        },
+        {
+          "match": "M5",
+          "runs": 29,
+          "wickets": 1,
+          "score": 53,
+          "label": "29r · 1w"
+        }
+      ]
+    },
+    {
+      "id": "kkr-rahane",
+      "name": "Ajinkya Rahane",
+      "team": "KKR",
+      "category": "Batsman",
+      "isCaptain": true,
+      "nationality": "India",
+      "jerseyNumber": 27,
+      "avatarPreset": "purple",
+      "batting": {
+        "matches": 185,
+        "innings": 171,
+        "runs": 4642,
+        "ballsFaced": 3761,
+        "dotBallsFaced": 1425,
+        "strikeRate": 123.42,
+        "average": 30.14,
+        "fours": 478,
+        "sixes": 103,
+        "fifties": 30,
+        "hundreds": 2,
+        "highScore": 105
+      },
+      "bowling": {
+        "matches": 185,
+        "innings": 0,
+        "overs": 0,
+        "runsConceded": 0,
+        "wickets": 0,
+        "dotBallsBowled": 0,
+        "economy": 0,
+        "bowlingAverage": 0,
+        "bowlingStrikeRate": 0,
+        "maidens": 0,
+        "fourWickets": 0,
+        "bestFigures": "0/0"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 36,
+          "score": 36,
+          "label": "36 runs"
+        },
+        {
+          "match": "M2",
+          "runs": 45,
+          "score": 45,
+          "label": "45 runs"
+        },
+        {
+          "match": "M3",
+          "runs": 29,
+          "score": 29,
+          "label": "29 runs"
+        },
+        {
+          "match": "M4",
+          "runs": 54,
+          "score": 54,
+          "label": "54 runs"
+        },
+        {
+          "match": "M5",
+          "runs": 41,
+          "score": 41,
+          "label": "41 runs"
+        }
+      ],
+      "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ajinkya_Rahane_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": "kkr-narine",
+      "name": "Sunil Narine",
+      "team": "KKR",
+      "category": "All-Rounder",
+      "nationality": "West Indies",
+      "jerseyNumber": 74,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 177,
+        "innings": 112,
+        "runs": 1534,
+        "ballsFaced": 925,
+        "dotBallsFaced": 318,
+        "strikeRate": 165.84,
+        "average": 16.67,
+        "fours": 162,
+        "sixes": 96,
+        "fifties": 7,
+        "hundreds": 1,
+        "highScore": 109
+      },
+      "bowling": {
+        "matches": 177,
+        "innings": 175,
+        "overs": 686.1,
+        "runsConceded": 4618,
+        "wickets": 180,
+        "dotBallsBowled": 1720,
+        "economy": 6.73,
+        "bowlingAverage": 25.66,
+        "bowlingStrikeRate": 22.87,
+        "maidens": 3,
+        "fourWickets": 7,
+        "bestFigures": "5/19"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 48,
+          "wickets": 2,
+          "score": 96,
+          "label": "48r · 2w"
+        },
+        {
+          "match": "M2",
+          "runs": 26,
+          "wickets": 1,
+          "score": 50,
+          "label": "26r · 1w"
+        },
+        {
+          "match": "M3",
+          "runs": 71,
+          "wickets": 2,
+          "score": 119,
+          "label": "71r · 2w"
+        },
+        {
+          "match": "M4",
+          "runs": 33,
+          "wickets": 3,
+          "score": 105,
+          "label": "33r · 3w"
+        },
+        {
+          "match": "M5",
+          "runs": 52,
+          "wickets": 1,
+          "score": 76,
+          "label": "52r · 1w"
+        }
+      ]
+    },
+    {
+      "id": "kkr-russell",
+      "name": "Andre Russell",
+      "team": "KKR",
+      "category": "All-Rounder",
+      "nationality": "West Indies",
+      "jerseyNumber": 12,
+      "avatarPreset": "navy",
+      "batting": {
+        "matches": 127,
+        "innings": 104,
+        "runs": 2484,
+        "ballsFaced": 1420,
+        "dotBallsFaced": 460,
+        "strikeRate": 174.93,
+        "average": 29.22,
+        "fours": 170,
+        "sixes": 209,
+        "fifties": 11,
+        "hundreds": 0,
+        "highScore": 88
+      },
+      "bowling": {
+        "matches": 127,
+        "innings": 111,
+        "overs": 280.1,
+        "runsConceded": 2605,
+        "wickets": 115,
+        "dotBallsBowled": 590,
+        "economy": 9.3,
+        "bowlingAverage": 22.65,
+        "bowlingStrikeRate": 14.62,
+        "maidens": 0,
+        "fourWickets": 2,
+        "bestFigures": "5/15"
+      },
+      "lastUpdated": "2026-11-15T11:21:17.754Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "runs": 41,
+          "wickets": 1,
+          "score": 65,
+          "label": "41r · 1w"
+        },
+        {
+          "match": "M2",
+          "runs": 24,
+          "wickets": 2,
+          "score": 72,
+          "label": "24r · 2w"
+        },
+        {
+          "match": "M3",
+          "runs": 57,
+          "wickets": 2,
+          "score": 105,
+          "label": "57r · 2w"
+        },
+        {
+          "match": "M4",
+          "runs": 19,
+          "wickets": 1,
+          "score": 43,
+          "label": "19r · 1w"
+        },
+        {
+          "match": "M5",
+          "runs": 44,
+          "wickets": 3,
+          "score": 116,
+          "label": "44r · 3w"
+        }
+      ],
+      "photoUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Andre_Russell_%281%29.jpg/330px-Andre_Russell_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": "kkr-varun",
+      "name": "Varun Chakravarthy",
+      "team": "KKR",
+      "category": "Bowler",
+      "nationality": "India",
+      "jerseyNumber": 29,
+      "avatarPreset": "crimson",
+      "batting": {
+        "matches": 71,
+        "innings": 0,
+        "runs": 0,
+        "ballsFaced": 0,
+        "dotBallsFaced": 0,
+        "strikeRate": 0,
+        "average": 0,
+        "fours": 0,
+        "sixes": 0,
+        "fifties": 0,
+        "hundreds": 0,
+        "highScore": 0
+      },
+      "bowling": {
+        "matches": 71,
+        "innings": 70,
+        "overs": 266.2,
+        "runsConceded": 2013,
+        "wickets": 83,
+        "dotBallsBowled": 678,
+        "economy": 7.56,
+        "bowlingAverage": 24.25,
+        "bowlingStrikeRate": 19.25,
+        "maidens": 0,
+        "fourWickets": 2,
+        "bestFigures": "5/20"
+      },
+      "lastUpdated": "2026-03-01T10:00:00.000Z",
+      "recentForm": [
+        {
+          "match": "M1",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M2",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        },
+        {
+          "match": "M3",
+          "wickets": 2,
+          "score": 65,
+          "label": "2 wkts"
+        },
+        {
+          "match": "M4",
+          "wickets": 1,
+          "score": 40,
+          "label": "1 wkts"
+        },
+        {
+          "match": "M5",
+          "wickets": 3,
+          "score": 90,
+          "label": "3 wkts"
+        }
+      ]
+    }
+  ],
+  "lastAiSync": null,
+  "aiSyncNotes": null,
+  "groundingSources": []
+}
